@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require vendor/package -vvv
+$ composer require caojiabin2012/payment -vvv
 ```
 
 ## Usage

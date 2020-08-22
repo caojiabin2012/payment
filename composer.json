@@ -1,5 +1,5 @@
 {
-    "name": "caojiabin/payment",
+    "name": "caojiabin2012/payment",
     "description": "A PHP package template repository.",
     "license": "MIT",
     "authors": [
@@ -8,7 +8,9 @@
             "email": "name@domain.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7"
+    },
     "require-dev": {
         "brainmaestro/composer-git-hooks": "^2.7",
         "friendsofphp/php-cs-fixer": "^2.15",
