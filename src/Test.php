@@ -6,7 +6,7 @@
  * Time: 4:41 PM
  */
 
-namespace Doper\Payment;
+namespace Doper\Test;
 
 
 class Test

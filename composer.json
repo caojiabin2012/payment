@@ -1,5 +1,5 @@
 {
-    "name": "doper/payment",
+    "name": "doper/test",
     "description": "A PHP package template repository.",
     "license": "MIT",
     "authors": [
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Doper\\Payment\\": "src/"
+            "Doper\\Test\\": "src/"
         }
     },
     "extra": {
