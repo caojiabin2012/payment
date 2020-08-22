@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/php-package",
+    "name": "caojiabin/payment",
     "description": "A PHP package template repository.",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Vendor\\Package\\": "src"
+            "Payment\\": "src/"
         }
     },
     "extra": {
